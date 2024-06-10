@@ -6,7 +6,7 @@ Inspired by Vercel's Language Model Specification, this is a proposal for introd
 ## Problem Statement
 Currently, there are numerous speech providers available, each with its own distinct method for interfacing with their models. This lack of standardization complicates the process of switching providers and increases the likelihood of vendor lock-in. Developers are required to learn and implement different APIs for each provider, leading to increased development time and maintenance overhead.
 
-The open-source community has created the following providers:
+Integration for following voice providers are available:
 
 - OpenAI Provider (@bishwenduk029-ai-voice/openai)
 
